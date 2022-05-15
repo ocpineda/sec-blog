@@ -35,3 +35,9 @@ This page is a work in progress, just like anything else I do.
 
 - [Network Chuck](https://www.youtube.com/c/NetworkChuck)
 - [David Bombal](https://www.youtube.com/c/DavidBombal)
+
+## Training
+
+- hackthebox
+- occupytheweb
+- rangeforce
